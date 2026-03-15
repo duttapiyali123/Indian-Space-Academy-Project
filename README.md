@@ -1,2 +1,3 @@
-# Indian-Space-Academy-Project
-Winter training projects focusing on autonomous drone tech: developing computer vision pipelines (OpenCV/YOLOv8), analyzing VTOL flight control systems, and exploring airfoil aerodynamics.
+# Indian Space Academy Project
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/duttapiyali123/Indian-Space-Academy-Project/blob/main/ISA_PROJECT.ipynb)
